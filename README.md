@@ -44,9 +44,25 @@ SQL was used for data extraction and structured analysis, including:
 - Consider introducing a loyalty programme for high-value customers based on defined spending criteria.
 - Consider further investigating London as a target market and testing targeted local marketing campaigns.
 
-## Power BI Dashboard
-
-
-
 ## Python Analysis
+Python was used for exploratory data analysis, data validation, and additional analysis of customer, product, and city-level sales performance.
 
+Key analysis included:
+- Data preparation and validation
+- Product performance analysis
+- Customer performance analysis
+- City-level sales analysis
+- Revenue contribution analysis
+- Business insight generation
+
+The full Python analysis and code are available in 'python' folder.
+
+## Power BI Dashboard
+Built an interactive dashboard to monitor sales, customer and market performance.
+
+Key features:
+- Total Sales, Total Orders, Total Quantity and Average Order Value KPIs
+- Sales performance by product, customer and city
+- Customer revenue contribution
+- City slicer for interactive filtering
+![Retail Sales Performance Dashboard](images/retail_sales_dashboard.png) 
